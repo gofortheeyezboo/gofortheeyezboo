@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Zac, just trying to learn how to code good and do other things good too
 
 <!--
 **gofortheeyezboo/gofortheeyezboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
